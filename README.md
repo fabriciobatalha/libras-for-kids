@@ -5,7 +5,7 @@
 Aplicativo com o intuito de ensinar a Linguagem de Sinais para crianças.
 
 ## Autores
-Fabricio Batalha - https://www.linkedin.com/in/fabriciodev9/
+Fabricio Batalha - https://www.linkedin.com/in/fabriciobatalha/
 
 Jean Braga - https://www.linkedin.com/in/jean-braga-19b22813b/
 
